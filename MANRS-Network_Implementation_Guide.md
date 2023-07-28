@@ -23,9 +23,9 @@ As such, we are calling upon network operators around the world to join the <u>M
 
 - We (the ISP/network operator) recognize the interdependent nature of the global routing system and our own role in contributing to a secure and resilient Internet.
 
-- We will integrate best current practices related to routing security and resilience in our network management processes in line with the Actions.
+- We will integrate best current practices related to routing security and resilience in our network management processes in line with the MANRS Actions.
 
-- We are committed to preventing, detecting and mitigating routing incidents through collaboration and coordination with peers and other ISPs in line with the Actions.
+- We are committed to preventing, detecting and mitigating routing incidents through collaboration and coordination with peers and other ISPs in line with the MANRS Actions.
 
 - We encourage our customers and peers to adopt these Principles and Actions.
 
@@ -69,7 +69,7 @@ This is a **required** Action:
 
   - Network operator maintains globally accessible up-to-date contact information
 
-Publicly accessible and up-to-date contact information is essential to promoting communication and collaboration between network operators. Network operators are advised to maintain their contact data in common places such as PeeringDB, on objects registered in RIR Whois databases such as RADB, AfriNIC, APNIC, ARIN, LACNIC and RIPE, and also on their public website.
+Publicly accessible and up-to-date contact information is essential to promoting communication and collaboration between network operators. Network operators are advised to maintain their contact data in common places such as PeeringDB, on objects registered in RIR Whois databases such as AfriNIC, APNIC, ARIN, LACNIC and RIPE, and also on their public website.
 
 At a minimum, a network operator should register and maintain 24/7 contact information in at least one of these databases. This contact information should include the operator’s current point of contact information for the NOC of their ASN, all netblocks, and domain names.
 Additional information is also welcome and encouraged, such as documenting of route policy in an IRR and contact information on a public web page, providing a public looking glass URL in the appropriate field in their PeeringDB record, etc.

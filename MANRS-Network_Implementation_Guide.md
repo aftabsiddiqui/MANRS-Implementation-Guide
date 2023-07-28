@@ -42,18 +42,19 @@ As such, we are calling upon network operators around the world to join the <u>M
 3.  Coordination - Facilitating global operational communication and coordination between network operators.
   - Network operator maintains globally accessible up-to-date contact information.
 
-4.  Global Validation - Facilitating validation of routing information on a global scale.
+4.  Global Routing Information - Publish your data so others can validate routing information on a global scale.
   - Network operator has publicly documented routing policy, ASNs and prefixes that are intended to be advertised to external parties.
 
 ## Becoming a MANRS Participant
 
-Network operators who agree to the Principles and implement Actions 1, 3 and 4 as a minimum can become a MANRS Participant. This entitles you to use of the MANRS badge and being listed on the [MANRS website](https://manrs.org), and you can contribute to this document and others like it.
+Network operators who agree to the Principles and implement Actions 1, 3 and 4 as a minimum can become a MANRS Participant. This entitles you to use of the MANRS badge and being listed on the [MANRS website](https://manrs.org). This document was created with the help of MANRS Community and anyone can help update it.
 
-The proposed recommendations, referred to as Actions in the MANRS document and in this BCOP, address the most common cases and are designed to incur minimum cost and risk when implementing them. Any particular Action is not a comprehensive solution to the outlined problems.
+The suggested recommendations, known as Actions in all MANRS documents and in this BCOP, target the most prevalent routing security issues and aim to minimize costs and risks during implementation. However, any single Action is not a comprehensive solution to all the outlined problems in this document.
 
 # Implementation guidelines for the MANRS Actions
 
-The selection of Actions was based on an assessment of the balance between small, incremental individual costs and the potential common benefit. They define a minimum security baseline. Any particular Action is not a comprehensive solution to the outlined problems.
+The selection of Actions was based on an assessment of the balance between small, incremental individual costs and the potential common benefit. TThe MANRS actions establish a basic security foundation,to achieve a higher grade of routing security, additional and more stringent measures can be implemented. 
+
 For configuration examples a simple topology, presented in fig 1. is used.
 
 <img src="media/image2.jpg" style="width:5.842in;height:5.59542in" />
